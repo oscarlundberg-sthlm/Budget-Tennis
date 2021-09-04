@@ -6,3 +6,9 @@ body {
     width: 8rem;
     border-radius: 50%;
 }
+.alertMsg {
+    background-color: rgb(255, 207, 49);
+    color: rgb(32, 32, 32);
+    font-weight: bold;
+    padding: 0.5rem;
+}
